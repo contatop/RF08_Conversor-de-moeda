@@ -97,7 +97,8 @@ section {
 
 }
 
-.currency-value {
+.currency-value, .currency-value-convert {
     color: #555555;
     font-size: 20px;
+    text-align: center;
 }
