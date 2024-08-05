@@ -36,5 +36,9 @@ function convertValues() {
     console.log(convertValues)
 }
 
+function changeCurrency(){
+    console.log("trocou de moeda")
+}
 
+currencySelect.addEventListener('change')
 convertButton.addEventListener("click", convertValues)
