@@ -8,7 +8,7 @@ Versão para computador, sendo as tecnologias utilizadas para criação:
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
-<img src="https://github.com/contatop/RF08_Conversor-de-moeda/blob/main/Assets/image.png?raw=true" alt="imagem-shopping" heigth="500"/>
+<img src="https://github.com/contatop/RF08_Conversor-de-moeda/blob/main/img/conversor.png?raw=true" alt="imagem-shopping" heigth="500"/>
 <br>
 <h3>Vídeo abaixo</h3>
 <br>
