@@ -8,8 +8,8 @@ function convertValues() {
 
     console.log(currencySelect.value)
 
-    const dolartoday = 5.47
-    const eurotoday = 6.41
+    const dolartoday = 5.43
+    const eurotoday = 6.40
 
     if (currencySelect.value == "dolar") {
 
